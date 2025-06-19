@@ -68,7 +68,7 @@ Audit Focus: Entire security program including assets, controls, and compliance 
 | **Intrusion Detection System (IDS)**     |  No      | Not installed.                                                                 |
 | **Backups**                              |  No      | No backup systems in place.                                                    |
 | **Antivirus Software**                   |  Yes     | Regularly monitored.                                                           |
-| **Manual Monitoring for Legacy Systems** |  Yes     | Performed, but no schedule or clear intervention plan.                         |
+| **Manual Monitoring for Legacy Systems** |  NO     | Performed, but no schedule or clear intervention plan - thats why NO.                         |
 | **Encryption**                           |  No      | No encryption for customer credit card data.                                   |
 | **Password Management System**           |  No      | Not centralized; causes productivity issues.                                   |
 | **Locks (Physical Security)**            |  Yes     | Sufficient locks in all locations.                                             |
@@ -91,7 +91,7 @@ Audit Focus: Entire security program including assets, controls, and compliance 
 
 | Best Practice                       | In Place? | Notes                   |
 | ----------------------------------- | --------- | ----------------------- |
-| Private/Secured EU customer data    | Yes     | Some controls in place. |
+| Private/Secured EU customer data    | No    | Company does not use encryption. |
 | Breach notification within 72 hours | Yes     | Plan exists.            |
 | Data classification and inventory   | No      | Not yet implemented.    |
 | Privacy policies/procedures         | Yes     | Developed and enforced. |
@@ -104,7 +104,7 @@ Audit Focus: Entire security program including assets, controls, and compliance 
 | User access policies                  | No      | No access controls in place.     |
 | Sensitive data kept private           | No      | Not effectively controlled.      |
 | Data integrity                        | Yes     | Controls ensure integrity.       |
-| Data availability to authorized users | Yes     | Availability ensured by IT team. |
+| Data availability to authorized users | No     | The availability need to be limited |
 
 
 # RISK ASSESSMENT:
