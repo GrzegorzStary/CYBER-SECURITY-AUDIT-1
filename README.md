@@ -119,12 +119,12 @@ Audit Focus: Entire security program including assets, controls, and compliance 
 
 ### RECOMMENDATIONS TO IT MANAGER
 
-Implement Least Privilege & Role-Based Access Control.
-Deploy Encryption for Cardholder and Sensitive Data.
-Establish and Test a Disaster Recovery & Backup Strategy.
-Adopt a Centralized Password Management System with Strong Policy Enforcement.
-Install Intrusion Detection System (IDS).
-Develop a Formal Access Control Policy & User Lifecycle Management.
-Classify and Inventory All Data Assets.
-Upgrade Password Policy (min 8 chars, complexity, rotation).
-Ensure PCI DSS and SOC framework controls are addressed and documented.
+- Implement Least Privilege & Role-Based Access Control.
+- Deploy Encryption for Cardholder and Sensitive Data.
+- Establish and Test a Disaster Recovery & Backup Strategy.
+- Adopt a Centralized Password Management System with Strong Policy Enforcement.
+- Install Intrusion Detection System (IDS).
+- Develop a Formal Access Control Policy & User Lifecycle Management.
+- Classify and Inventory All Data Assets.
+- Upgrade Password Policy (min 8 chars, complexity, rotation).
+- Ensure PCI DSS and SOC framework controls are addressed and documented.
